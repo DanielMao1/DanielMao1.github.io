@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 2nd MPhil Student
+role: MPhil Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Zunyao Mao is a MPhil student of Southern University of Science and Technology at the HPC Lab. His research focuses on large scale data processing, high performance computing and graph neural network system.
+Zunyao Mao is a second year MPhil student of Southern University of Science and Technology at the HPC Lab. His research focuses on large scale data processing, high performance computing and graph neural network system.
 {style="text-align: justify;"}
